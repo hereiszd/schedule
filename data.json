@@ -1185,6 +1185,125 @@
           "location":""
         }
       ]
+    },
+    {
+      "id": "wai",
+      "name": "WTY_AK_IOI",
+      "groups": ["LDC"],
+      "schedule": [
+        {
+          "course": "复变函数与积分变换",
+          "time": "周一 10:10-12:00",
+          "day": "Monday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location":""
+        },
+        {
+          "course": "大学数据技术基础",
+          "time": "周一 14:30-16:20",
+          "day": "Monday",
+          "startTime": "14:30",
+          "endTime": "16:20",
+          "location":""
+        },
+        {
+          "course": "普通物理学实验",
+          "time": "周一 16:20-18:30",
+          "day": "Monday",
+          "startTime": "16:20",
+          "endTime": "18:30",
+          "location":""
+        },
+        {
+          "course": "理论力学",
+          "time": "周一 19:40-21:30",
+          "day": "Monday",
+          "startTime": "19:40",
+          "endTime": "21:30",
+          "location":""
+        },
+        {
+          "course": "设计特征表达",
+          "time": "周二 08:00-09:50",
+          "day": "Tuesday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location":""
+        },
+        {
+          "course": "体育",
+          "time": "周二 10:10-12:00",
+          "day": "Tuesday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location":""
+        },
+        {
+          "course": "普通物理学",
+          "time": "周二 14:30-16:20",
+          "day": "Tuesday",
+          "startTime": "14:30",
+          "endTime": "16:20",
+          "location":""
+        },
+        {
+          "course": "毛泽东思想",
+          "time": "周二 16:40-18:30",
+          "day": "Tuesday",
+          "startTime": "16:40",
+          "endTime": "18:30",
+          "location":""
+        },
+        {
+          "course": "大数据技术基础",
+          "time": "周三 08:00-09:50",
+          "day": "Wednesday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location":""
+        },
+        {
+          "course": "大学英语",
+          "time": "周三 10:10-12:00",
+          "day": "Wednesday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location":""
+        },
+        {
+          "course": "普通物理学",
+          "time": "周四 08:00-09:50",
+          "day": "Thursday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location":""
+        },
+        {
+          "course": "理论力学",
+          "time": "周四 10:10-12:00",
+          "day": "Thursday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location":""
+        },
+        {
+          "course": "复变函数与积分变换",
+          "time": "周四 14:30-16:20",
+          "day": "Thursday",
+          "startTime": "14:30",
+          "endTime": "16:20",
+          "location":""
+        },
+        {
+          "course": "算法设计与问题求解",
+          "time": "周五 10:10-12:00",
+          "day": "Friday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location":""
+        }
+      ]
     }
   ]
 }
