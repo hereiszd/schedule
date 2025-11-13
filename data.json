@@ -1304,6 +1304,181 @@
           "location":""
         }
       ]
+    },
+    {
+      "id": "ic",
+      "name": "Iron_china",
+      "groups": ["LDC"],
+      "schedule": [
+        {
+          "course": "数学物理方法",
+          "time": "周一 08:00-09:50",
+          "day": "Monday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location": ""
+        },
+        {
+          "course": "概率论与数理统计",
+          "time": "周二 10:10-12:00",
+          "day": "Tuesday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location": ""
+        },
+        {
+          "course": "数字电子技术实验",
+          "time": "周二 14:00-18:00",
+          "day": "Tuesday",
+          "startTime": "14:00",
+          "endTime": "18:00",
+          "location": ""
+        },
+        {
+          "course": "哲学与人生(生命健康)",
+          "time": "周一 19:00-20:50",
+          "day": "Monday",
+          "startTime": "19:00",
+          "endTime": "20:50",
+          "location": ""
+        },
+        {
+          "course": "数学物理方法",
+          "time": "周五 10:10-12:00",
+          "day": "Friday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location": ""
+        },
+        {
+          "course": "线性代数",
+          "time": "周一 19:00-20:50",
+          "day": "Monday",
+          "startTime": "19:00",
+          "endTime": "20:50",
+          "location": ""
+        },
+        {
+          "course": "概率论与数理统计",
+          "time": "周五 08:00-09:50",
+          "day": "Friday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location": ""
+        },
+        {
+          "course": "普通物理学实验",
+          "time": "周五 14:00-18:00",
+          "day": "Friday",
+          "startTime": "14:00",
+          "endTime": "18:00",
+          "location": ""
+        },
+        {
+          "course": "电子训练与创新制作(实训)",
+          "time": "周六 14:00-18:00",
+          "day": "Saturday",
+          "startTime": "14:00",
+          "endTime": "18:00",
+          "location": ""
+        },
+        {
+          "course": "新生研讨课",
+          "time": "周五 19:00-20:50",
+          "day": "Friday",
+          "startTime": "19:00",
+          "endTime": "20:50",
+          "location": ""
+        },
+        {
+          "course": "工程伦理与管理",
+          "time": "周三 08:00-09:50",
+          "day": "Wednesday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location": ""
+        },
+        {
+          "course": "数字电子技术",
+          "time": "周三 08:00-09:50",
+          "day": "Wednesday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location": ""
+        },
+        {
+          "course": "普通物理学",
+          "time": "周三 14:00-15:50",
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "endTime": "15:50",
+          "location": ""
+        },
+        {
+          "course": "高级程序设计",
+          "time": "周三 16:10-18:00",
+          "day": "Wednesday",
+          "startTime": "16:10",
+          "endTime": "18:00",
+          "location": ""
+        },
+        {
+          "course": "数字电子技术",
+          "time": "周五 10:10-12:00",
+          "day": "Friday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location": ""
+        },
+        {
+          "course": "形势与政策",
+          "time": "周四 16:10-18:00",
+          "day": "Thursday",
+          "startTime": "16:10",
+          "endTime": "18:00",
+          "location": ""
+        },
+        {
+          "course": "社会网络分析",
+          "time": "周五 19:00-20:50",
+          "day": "Friday",
+          "startTime": "19:00",
+          "endTime": "20:50",
+          "location": ""
+        },
+        {
+          "course": "跨文化交际与全球胜任力",
+          "time": "周二 10:10-12:00",
+          "day": "Tuesday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location": ""
+        },
+        {
+          "course": "体育",
+          "time": "周四 16:10-18:00",
+          "day": "Thursday",
+          "startTime": "16:10",
+          "endTime": "18:00",
+          "location": ""
+        },
+        {
+          "course": "PCB设计与应用实验",
+          "time": "周日 14:00-18:00",
+          "day": "Sunday",
+          "startTime": "14:00",
+          "endTime": "18:00",
+          "location": ""
+        },
+        {
+          "course": "单片机编程与创新实践",
+          "time": "周一 14:00-18:00",
+          "day": "Monday",
+          "startTime": "14:00",
+          "endTime": "18:00",
+          "location": ""
+        }
+      ]
     }
   ]
 }
