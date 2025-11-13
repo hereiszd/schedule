@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>分组课表查看系统</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 今天你要视奸谁</h1>
+            <div class="time-info">
+                <div id="current-time">正在加载时间...</div>
+                <button id="refresh-btn">刷新</button>
+            </div>
+        </header>
+
+        <!-- 分组选择区域 -->
+        <div class="group-selection">
+            <h2>选择查看分组</h2>
+            <div class="groups-grid" id="groups-container">
+                <!-- 分组卡片将通过JavaScript动态生成 -->
+            </div>
+        </div>
+
+        <!-- 密码输入模态框 -->
+        <div id="password-modal" class="modal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 id="modal-title">请输入密码</h3>
+                    <span class="close">&times;</span>
+                </div>
+                <div class="modal-body">
+                    <p id="modal-description">该分组需要密码才能查看</p>
+                    <input type="password" id="password-input" placeholder="请输入密码">
+                    <div class="modal-actions">
+                        <button id="confirm-password">确认</button>
+                        <button id="cancel-password">取消</button>
+                    </div>
+                    <div id="password-error" class="error-message"></div>
+                </div>
+            </div>
+        </div>
+
+        <main id="main-content" class="hidden">
+            <div class="current-group-info">
+                <h2 id="current-group-name">当前分组</h2>
+                <p id="current-group-description">分组描述</p>
+                <button id="change-group">切换分组</button>
+            </div>
+
+            <div class="status-summary">
+                <div class="summary-card">
+                    <div class="summary-number" id="in-class-count">0</div>
+                    <div class="summary-label">正在上课</div>
+                </div>
+                <div class="summary-card">
+                    <div class="summary-number" id="total-people">0</div>
+                    <div class="summary-label">组内人数</div>
+                </div>
+            </div>
+
+            <div class="people-grid" id="people-container">
+                <!-- 人员卡片将通过JavaScript动态生成 -->
+            </div>
+        </main>
+
+        <div id="welcome-message" class="welcome-message">
+            <div class="welcome-content">
+                <h2>今天你要视奸谁</h2>
+                <p>请从上方选择一个分组来查看该组的实时课表</p>
+                <div class="welcome-features">
+                    <div class="feature">
+                        <span class="feature-icon">🔒</span>
+                        <span>部分分组需要密码访问</span>
+                    </div>
+                    <div class="feature">
+                        <span class="feature-icon">👥</span>
+                        <span>查看组内成员实时课程状态</span>
+                    </div>
+                    <div class="feature">
+                        <span class="feature-icon">🔄</span>
+                        <span>数据每分钟自动更新</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
