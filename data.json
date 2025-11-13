@@ -4,7 +4,7 @@
       "id": "yinyijian",
       "name": "尹一鉴",
       "password": "sn123456",
-      "description": "请输入文本"
+      "description": "揣皮"
     },
     {
       "id": "LDC", 
@@ -17,6 +17,12 @@
       "name": "赵贝贝",
       "password": "yzdyzbb",
       "description": "赵贝贝课程表"
+    },
+    {
+      "id": "111",
+      "name": "请输入文本",
+      "password": " ",
+      "description": "请输入文本"
     }
   ],
   "people": [
@@ -404,7 +410,7 @@
     {
       "id": "zd",
       "name": "zd",
-      "groups": ["yinyijian","LDC"],
+      "groups": ["yinyijian","LDC","111"],
       "schedule": [
         {
           "course": "数学分析",
@@ -756,7 +762,7 @@
           "location":""
         },
         {
-          "course": "体育(球类B)",
+          "course": "体育",
           "time": "周二 16:30-18:10",
           "day": "Tuesday",
           "startTime": "16:30",
@@ -1479,6 +1485,269 @@
           "location": ""
         }
       ]
+    },
+    {
+      "id": "lzq",
+      "name": "李子琪",
+      "groups": ["111"],
+      "schedule": [
+        {
+          "course": "语数英物化生",
+          "time": "周一 00:00-23:59",
+          "day": "Monday",
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "location":""
+        },
+        {
+          "course": "语数英物化生",
+          "time": "周二 00:00-23:59",
+          "day": "Tuesday",
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "location":""
+        },
+        {
+          "course": "语数英物化生",
+          "time": "周三 00:00-23:59",
+          "day": "Wednesday",
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "location":""
+        },
+        {
+          "course": "语数英物化生",
+          "time": "周四 00:00-23:59",
+          "day": "Thursday",
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "location":""
+        },
+        {
+          "course": "语数英物化生",
+          "time": "周五 00:00-23:59",
+          "day": "Friday",
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "location":""
+        },
+        {
+          "course": "语数英物化生",
+          "time": "周六 00:00-23:59",
+          "day": "Saturday",
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "location":""
+        },
+        {
+          "course": "语数英物化生",
+          "time": "周日 00:00-23:59",
+          "day": "Sunday",
+          "startTime": "00:00",
+          "endTime": "23:59",
+          "location":""
+        }
+      ]
+    },
+    {
+      "id": "pxy",
+      "name": "pxy",
+      "groups": ["111"],
+      "schedule": [
+        {
+          "course": "俄语",
+          "time": "周一 08:30-10:00",
+          "day": "Monday",
+          "startTime": "08:30",
+          "endTime": "10:00",
+          "location":""
+        },
+        {
+          "course": "高等数学",
+          "time": "周一 10:15-11:45",
+          "day": "Monday",
+          "startTime": "10:15",
+          "endTime": "11:45",
+          "location":""
+        },
+        {
+          "course": "大学计算机基础",
+          "time": "周一 13:30-15:00",
+          "day": "Monday",
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location":""
+        },
+        {
+          "course": "马克思主义基本原理",
+          "time": "周一 15:15-16:45",
+          "day": "Monday",
+          "startTime": "15:15",
+          "endTime": "16:45",
+          "location":""
+        },
+        {
+          "course": "体育",
+          "time": "周二 08:00-09:50",
+          "day": "Tuesday",
+          "startTime": "08:00",
+          "endTime": "09:50",
+          "location":""
+        },
+        {
+          "course": "计算机专业英语",
+          "time": "周二 10:15-11:45",
+          "day": "Tuesday",
+          "startTime": "10:15",
+          "endTime": "11:45",
+          "location":""
+        },
+        {
+          "course": "俄语",
+          "time": "周二 13:30-15:00",
+          "day": "Tuesday",
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location":""
+        },
+        {
+          "course": "军事理论",
+          "time": "周二 19:00-20:35",
+          "day": "Tuesday",
+          "startTime": "19:00",
+          "endTime": "20:35",
+          "location":""
+        },
+        {
+          "course": "大学英语",
+          "time": "周三 08:30-10:00",
+          "day": "Wednesday",
+          "startTime": "08:30",
+          "endTime": "10:00",
+          "location":""
+        },
+        {
+          "course": "高等数学",
+          "time": "周三 10:15-11:45",
+          "day": "Wednesday",
+          "startTime": "10:15",
+          "endTime": "11:45",
+          "location":""
+        },
+        {
+          "course": "俄语",
+          "time": "周三 13:30-15:00",
+          "day": "Wednesday",
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location":""
+        },
+        {
+          "course": "大学计算机基础",
+          "time": "周四 08:30-10:00",
+          "day": "Thursday",
+          "startTime": "08:30",
+          "endTime": "10:00",
+          "location":""
+        },
+        {
+          "course": "大学英语",
+          "time": "周四 10:15-11:45",
+          "day": "Thursday",
+          "startTime": "10:10",
+          "endTime": "12:00",
+          "location":""
+        },
+        {
+          "course": "马克思主义基本原理",
+          "time": "周四 13:30-15:00",
+          "day": "Thursday",
+          "startTime": "13:30",
+          "endTime": "15:00",
+          "location":""
+        },
+        {
+          "course": "高等数学",
+          "time": "周五 08:30-10:00",
+          "day": "Friday",
+          "startTime": "08:30",
+          "endTime": "10:00",
+          "location":""
+        },
+        {
+          "course": "大学英语",
+          "time": "周五 10:15-11:45",
+          "day": "Friday",
+          "startTime": "10:15",
+          "endTime": "11:45",
+          "location":""
+        },
+        {
+          "course": "大学生心理与健康教育",
+          "time": "周五 15:15-16:45",
+          "day": "Friday",
+          "startTime": "15:15",
+          "endTime": "16:45",
+          "location":""
+        },
+        {
+          "course": "大学生职业生涯规划",
+          "time": "周六 10:15-11:45",
+          "day": "Saturday",
+          "startTime": "10:15",
+          "endTime": "11:45",
+          "location":""
+        },
+        {
+          "course": "晚自习",
+          "time": "周一 19:00-21:00",
+          "day": "Monday",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "location":""
+        },
+        {
+          "course": "晚自习",
+          "time": "周一 19:00-21:00",
+          "day": "Monday",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "location":""
+        },
+        {
+          "course": "晚自习",
+          "time": "周二 19:00-21:00",
+          "day": "Tuesday",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "location":""
+        },
+        {
+          "course": "晚自习",
+          "time": "周三 19:00-21:00",
+          "day": "Wednesday",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "location":""
+        },
+        {
+          "course": "晚自习",
+          "time": "周四 19:00-21:00",
+          "day": "Thursday",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "location":""
+        },
+        {
+          "course": "晚自习",
+          "time": "周日 19:00-21:00",
+          "day": "Sunday",
+          "startTime": "19:00",
+          "endTime": "21:00",
+          "location":""
+        }
+      ]
     }
+    
   ]
 }
