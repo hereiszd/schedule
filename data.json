@@ -550,7 +550,7 @@
           "location":""
         },
         {
-          "course": "体育(球类B)",
+          "course": "体育",
           "time": "周二 16:30-18:10",
           "day": "Tuesday",
           "startTime": "16:30",
@@ -825,6 +825,363 @@
           "day": "Friday",
           "startTime": "10:05",
           "endTime": "11:50",
+          "location":""
+        }
+      ]
+    },
+    {
+      "id": "bc",
+      "name": "MinecraftBC",
+      "groups": ["LDC"],
+      "schedule": [
+        {
+          "course": "羽毛球",
+          "time": "周一 10:00-10:50",
+          "day": "Monday",
+          "startTime": "10:00",
+          "endTime": "10:50",
+          "location":""
+        },
+        {
+          "course": "高级数据结构和算法分析",
+          "time": "周一 13:25-17:05",
+          "day": "Monday",
+          "startTime": "13:25",
+          "endTime": "17:05",
+          "location":""
+        },
+        {
+          "course": "中国陶瓷与玻璃",
+          "time": "周一 18:50-19:40",
+          "day": "Monday",
+          "startTime": "18:50",
+          "endTime": "19:40",
+          "location":""
+        },
+        {
+          "course": "普通物理学",
+          "time": "周二 08:00-08:50",
+          "day": "Tuesday",
+          "startTime": "08:00",
+          "endTime": "08:50",
+          "location":""
+        },
+        {
+          "course": "计算机组成",
+          "time": "周二 10:00-11:40",
+          "day": "Tuesday",
+          "startTime": "10:00",
+          "endTime": "11:40",
+          "location":""
+        },
+        {
+          "course": "计算机组成",
+          "time": "周二 13:25-14:15",
+          "day": "Tuesday",
+          "startTime": "13:25",
+          "endTime": "14:15",
+          "location":""
+        },
+        {
+          "course": "马克思主义基本原理",
+          "time": "周三 10:00-11:40",
+          "day": "Wednesday",
+          "startTime": "10:00",
+          "endTime": "11:40",
+          "location":""
+        },
+        {
+          "course": "普通物理学实验",
+          "time": "周三 13:25-15:05",
+          "day": "Wednesday",
+          "startTime": "13:25",
+          "endTime": "15:05",
+          "location":""
+        },
+        {
+          "course": "中国陶瓷与玻璃",
+          "time": "周三 18:50-19:40",
+          "day": "Wednesday",
+          "startTime": "18:50",
+          "endTime": "19:40",
+          "location":""
+        },
+        {
+          "course": "普通物理学",
+          "time": "周四 08:00-08:50",
+          "day": "Thursday",
+          "startTime": "08:00",
+          "endTime": "08:50",
+          "location":""
+        },
+        {
+          "course": "概率论与数理统计",
+          "time": "周四 10:00-11:40",
+          "day": "Thursday",
+          "startTime": "10:00",
+          "endTime": "11:40",
+          "location":""
+        },
+        {
+          "course": "计算机组成",
+          "time": "周四 13:25-15:05",
+          "day": "Thursday",
+          "startTime": "13:25",
+          "endTime": "15:05",
+          "location":""
+        },
+        {
+          "course": "工程图学",
+          "time": "周五 10:00-11:40",
+          "day": "Friday",
+          "startTime": "10:00",
+          "endTime": "11:40",
+          "location":""
+        }
+      ]
+    },
+    {
+      "id": "swk",
+      "name": "A350_ti",
+      "groups": ["LDC"],
+      "schedule": [
+        {
+          "course": "遥感原理与应用",
+          "time": "周一 10:10-11:50",
+          "day": "Monday",
+          "startTime": "10:10",
+          "endTime": "11:50",
+          "location":""
+        },
+        {
+          "course": "Python程序设计",
+          "time": "周一 13:45-15:25",
+          "day": "Monday",
+          "startTime": "13:45",
+          "endTime": "15:25",
+          "location":""
+        },
+        {
+          "course": "普通物理学",
+          "time": "周一 15:55-17:35",
+          "day": "Monday",
+          "startTime": "15:55",
+          "endTime": "17:35",
+          "location":""
+        },
+        {
+          "course": "摄影测量学",
+          "time": "周二 08:00-09:40",
+          "day": "Tuesday",
+          "startTime": "08:00",
+          "endTime": "09:40",
+          "location":""
+        },
+        {
+          "course": "学术英语与沟通",
+          "time": "周二 10:10-11:50",
+          "day": "Tuesday",
+          "startTime": "10:10",
+          "endTime": "11:50",
+          "location":""
+        },
+        {
+          "course": "概率论与数理统计",
+          "time": "周二 13:45-15:25",
+          "day": "Tuesday",
+          "startTime": "13:45",
+          "endTime": "15:25",
+          "location":""
+        },
+        {
+          "course": "普通物理学实验",
+          "time": "周二 15:55-17:35",
+          "day": "Tuesday",
+          "startTime": "15:55",
+          "endTime": "17:35",
+          "location":""
+        },
+        {
+          "course": "生活中的经济学",
+          "time": "周二 18:45-20:25",
+          "day": "Tuesday",
+          "startTime": "18:45",
+          "endTime": "20:25",
+          "location":""
+        },
+        {
+          "course": "地图制图学基础",
+          "time": "周三 10:10-11:50",
+          "day": "Wednesday",
+          "startTime": "10:10",
+          "endTime": "11:50",
+          "location":""
+        },
+        {
+          "course": "Python程序设计",
+          "time": "周三 15:55-17:35",
+          "day": "Wednesday",
+          "startTime": "15:55",
+          "endTime": "17:35",
+          "location":""
+        },
+        {
+          "course": "地理信息系统原理",
+          "time": "周四 10:10-11:50",
+          "day": "Thursday",
+          "startTime": "10:10",
+          "endTime": "11:50",
+          "location":""
+        },
+        {
+          "course": "体育",
+          "time": "周四 15:55-17:35",
+          "day": "Thursday",
+          "startTime": "15:55",
+          "endTime": "17:35",
+          "location":""
+        },
+        {
+          "course": "地图制图学基础",
+          "time": "周五 08:00-09:40",
+          "day": "Friday",
+          "startTime": "08:00",
+          "endTime": "09:40",
+          "location":""
+        },
+        {
+          "course": "马克思主义基本原理",
+          "time": "周五 10:10-11:50",
+          "day": "Friday",
+          "startTime": "10:10",
+          "endTime": "11:50",
+          "location":""
+        },
+        {
+          "course": "摄影测量学",
+          "time": "周五 13:45-15:25",
+          "day": "Friday",
+          "startTime": "13:45",
+          "endTime": "15:25",
+          "location":""
+        },
+        {
+          "course": "Python程序设计",
+          "time": "周日 10:10-11:50",
+          "day": "Sunday",
+          "startTime": "10:10",
+          "endTime": "11:50",
+          "location":""
+        },
+        {
+          "course": "Python程序设计",
+          "time": "周日 13:45-15:25",
+          "day": "Sunday",
+          "startTime": "13:45",
+          "endTime": "15:25",
+          "location":""
+        }
+      ]
+    },
+    {
+      "id": "nm",
+      "name": "Newmagnet",
+      "groups": ["LDC"],
+      "schedule": [
+        {
+          "course": "复变函数与积分变换",
+          "time": "周一 07:50-09:25",
+          "day": "Monday",
+          "startTime": "07:50",
+          "endTime": "09:25",
+          "location":""
+        },
+        {
+          "course": "光学",
+          "time": "周一 09:45-11:20",
+          "day": "Monday",
+          "startTime": "09:45",
+          "endTime": "11:20",
+          "location":""
+        },
+        {
+          "course": "普通物理学实验",
+          "time": "周一 14:00-17:30",
+          "day": "Monday",
+          "startTime": "14:00",
+          "endTime": "17:30",
+          "location":""
+        },
+        {
+          "course": "理论力学",
+          "time": "周二 09:45-11:20",
+          "day": "Tuesday",
+          "startTime": "09:45",
+          "endTime": "11:20",
+          "location":""
+        },
+        {
+          "course": "太阳系的形成与演化",
+          "time": "周二 15:55-17:30",
+          "day": "Tuesday",
+          "startTime": "15:55",
+          "endTime": "17:30",
+          "location":""
+        },
+        {
+          "course": "光学",
+          "time": "周三 07:50-09:25",
+          "day": "Wednesday",
+          "startTime": "07:50",
+          "endTime": "09:25",
+          "location":""
+        },
+        {
+          "course": "复变函数与积分变换",
+          "time": "周三 09:45-11:20",
+          "day": "Wednesday",
+          "startTime": "09:45",
+          "endTime": "11:20",
+          "location":""
+        },
+        {
+          "course": "体育",
+          "time": "周三 14:00-15:35",
+          "day": "Wednesday",
+          "startTime": "14:00",
+          "endTime": "15:35",
+          "location":""
+        },
+        {
+          "course": "理论力学",
+          "time": "周四 07:50-09:25",
+          "day": "Thursday",
+          "startTime": "07:50",
+          "endTime": "09:25",
+          "location":""
+        },
+        {
+          "course": "大学英语",
+          "time": "周五 07:50-09:25",
+          "day": "Friday",
+          "startTime": "07:50",
+          "endTime": "09:25",
+          "location":""
+        },
+        {
+          "course": "概率论与数理统计",
+          "time": "周五 09:45-12:10",
+          "day": "Friday",
+          "startTime": "09:45",
+          "endTime": "12:10",
+          "location":""
+        },
+        {
+          "course": "马克思主义基本原理",
+          "time": "周五 15:55-18:20",
+          "day": "Friday",
+          "startTime": "15:55",
+          "endTime": "18:20",
           "location":""
         }
       ]
